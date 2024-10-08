@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+This+is+ELTON+VURUDI;a+Web+Developer)](https://git.io/typing-svg)
+
 <h1 align="center">Hi 👋, I'm Elton vurudi</h1>
 <h3 align="center">A passionate web developer from Kenya</h3>
 
