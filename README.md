@@ -1,7 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+This+is+ELTON+VURUDI)](https://git.io/typing-svg)
 
 <h1 align="center">Hi 👋, I'm Elton vurudi</h1>
-<h3 align="center">A passionate web developer from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elton-prog&label=Profile%20views&color=0e75b6&style=flat" alt="elton-prog" /> </p>
 
