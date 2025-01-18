@@ -7,7 +7,7 @@
 <!-- GIF -->
 <img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
-- 🌱 I’m currently learning **Bsc(mathematics and computer science)**
+- 🌱 I’m currently learning **machine learning**
 
 - 📫 How to reach me **eltonvurudi@gmail.com**
 
