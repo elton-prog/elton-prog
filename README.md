@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+This+is+ELTON+VURUDI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+This+is+ELTON+VURUDI+a+Junior+software+Developer)](https://git.io/typing-svg)
 
 <h1 align="center">Hi 👋, I'm Elton vurudi</h1>
 
@@ -7,7 +7,7 @@
 <!-- GIF -->
 <img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
-- 🌱 I’m currently learning **Back-End and CyberSecurity Skills**
+- 🌱 I’m currently learning **Full-Stack and CyberSecurity Skills**
 
 - 📫 How to reach me **eltonvurudi@gmail.com**
 
