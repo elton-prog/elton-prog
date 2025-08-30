@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+This+is+ELTON+VURUDI+a+Junior+software+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+This+is+ELTON+VURUDI)](https://git.io/typing-svg)
 
 <h1 align="center">Hi 👋, I'm Elton vurudi</h1>
 
